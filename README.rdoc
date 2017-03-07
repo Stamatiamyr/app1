@@ -1,1 +1,1 @@
-I am Matina !!!
+This is a test App for Ruby on Rails
